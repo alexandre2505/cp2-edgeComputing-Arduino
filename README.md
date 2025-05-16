@@ -153,3 +153,6 @@ O código basicamente faz com que ao iniciar o programa, ele configura o sensor 
 
 https://wokwi.com/projects/430970372298218497
 
+### CIRCUITO
+
+![alt text](image.png)
